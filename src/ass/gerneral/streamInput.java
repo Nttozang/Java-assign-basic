@@ -1,3 +1,5 @@
+package ass.gerneral;
+
 import java.util.Scanner;
 
 public class streamInput{
